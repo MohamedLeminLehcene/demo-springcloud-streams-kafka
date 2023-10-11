@@ -1,5 +1,6 @@
 <h3>Activité Pratique N° 1 : Event Driven Architecture</h3>
 <hr/>
+<img src="./IMG/imgAcitivte.png" />
 <h4>1.</h4>
 <h4>- Télécharger Kafka</h4>
 <img src="./IMG/img01.png" />
