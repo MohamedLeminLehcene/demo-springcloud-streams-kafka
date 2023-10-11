@@ -11,7 +11,23 @@
 <h4>- Tester avec Kafka-console-producer et kafka-console-consumer</h4>
 <img src="./IMG/img04.png" />
 
-
+<h3>2.</h3>
+<h4>Instalation du Docker</h4>
+<img src="./IMG/img021.png">
+<img src="./IMG/img022.png">
+<img src="./IMG/img023.png">
+<img src="./IMG/img024.png">
+<img src="./IMG/img025.png">
+<img src="./IMG/img026.png">
+<h4>- Créer le fichier docker-compose.yml</h4>
+<img src="./IMG/img017.png">
+<h4>- Démarrer les conteneurs docker : zookeeper et kafka-broker</h4>
+<img src="./IMG/img018.png">
+<img src="./IMG/img019.png">
+<img src="./IMG/img027.png">
+<h4>- Tester avec Kafka-console-producer et kafka-console-consumer</h4>
+<img src="./IMG/img020.png">
+<img src="./IMG/img021.png">
 <h4>
 - 3. En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 </h4>
