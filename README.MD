@@ -25,6 +25,11 @@
 <img src="./IMG/img010.png" />
 <img src="./IMG/img011.png" />
 <h4>- Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel</h4>
+<img src="./IMG/img012.png" />
+<img src="./IMG/img013.png" />
+<img src="./IMG/img014.png" />
+<img src="./IMG/img015.png" />
+<img src="./IMG/img016.png" />
 
 
 
